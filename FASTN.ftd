@@ -1,7 +1,8 @@
 -- import: fastn
 
--- fastn.package: jay-consejo.github.io/admint.io
-favicon: https://jay-consejo.github.io/admint.io/favicon.ico
+-- fastn.package: admint.io
+favicon: https://admint.io/favicon.ico
+
 
 
 -- fastn.dependency: fifthtry.github.io/admint-cs
@@ -14,7 +15,7 @@ favicon: https://jay-consejo.github.io/admint.io/favicon.ico
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/opensans-font
 
--- fastn.auto-import: jay-consejo.github.io/admint.io/assets
+-- fastn.auto-import: admint.io/assets
 
 -- fastn.sitemap:
 

@@ -1,7 +1,7 @@
--- import: jay-consejo.github.io/admint.io/assets
+-- import: admint.io/assets
 -- import: fastn-community.github.io/doc-site as ds
 -- import: fastn-community.github.io/footer as fastn-footer
--- import: jay-consejo.github.io/admint.io/lib
+-- import: admint.io/lib
 -- import: fifthtry.github.io/admint-cs as cs
 -- import: fifthtry.github.io/admint-typography as typo
 

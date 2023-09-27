@@ -1,9 +1,9 @@
--- import: jay-consejo.github.io/admint.io/common/fonts
+-- import: admint.io/common/fonts
 -- import: fifthtry.github.io/admint-cs as cs
 -- import: fifthtry.github.io/admint-typography as typo
--- import: jay-consejo.github.io/admint.io/common
--- import: jay-consejo.github.io/admint.io/assets
--- import: jay-consejo.github.io/admint.io/pricing
+-- import: admint.io/common
+-- import: admint.io/assets
+-- import: admint.io/pricing
 -- import: fastn/processors as pr
 
 -- string $selected-item: Advertiser

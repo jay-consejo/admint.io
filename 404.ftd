@@ -1,5 +1,5 @@
--- import: jay-consejo.github.io/admint.io/assets
--- import: jay-consejo.github.io/admint.io/common/fonts
+-- import: admint.io/assets
+-- import: admint.io/common/fonts
 -- import: fifthtry.github.io/admint-cs as cs
 
 

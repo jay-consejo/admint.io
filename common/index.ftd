@@ -1,4 +1,4 @@
--- import: jay-consejo.github.io/admint.io/assets
+-- import: admint.io/assets
 -- import: fastn/processors as pr
 
 -- void global-event():

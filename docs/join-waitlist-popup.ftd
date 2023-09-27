@@ -1,9 +1,9 @@
 -- import: fastn-community.github.io/doc-site as ds
--- import: jay-consejo.github.io/admint.io/docs
--- import: jay-consejo.github.io/admint.io/lib
+-- import: admint.io/docs
+-- import: admint.io/lib
 -- import: fifthtry.github.io/admint-cs as cs
--- import: jay-consejo.github.io/admint.io/common
--- import: jay-consejo.github.io/admint.io/common/fonts
+-- import: admint.io/common
+-- import: admint.io/common/fonts
 -- import: fifthtry.github.io/admint-typography as typo
 
 -- boolean $show-waitlist-popup: false
@@ -36,7 +36,7 @@ To use `join-waitlist-popup` component you need to `import` `lib` inside your
 -- ds.code:
 lang: ftd
 
-\-- import: jay-consejo.github.io/admint.io/lib
+\-- import: admint.io/lib
 
 -- ds.markdown:
 

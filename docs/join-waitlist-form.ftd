@@ -1,8 +1,8 @@
 -- import: fastn-community.github.io/doc-site as ds
--- import: jay-consejo.github.io/admint.io/docs
--- import: jay-consejo.github.io/admint.io/lib
+-- import: admint.io/docs
+-- import: admint.io/lib
 -- import: fifthtry.github.io/admint-cs as cs
--- import: jay-consejo.github.io/admint.io/common
+-- import: admint.io/common
 -- import: fifthtry.github.io/admint-typography as typo
 
 
@@ -36,7 +36,7 @@ To use `join-waitlist-form` component you need to `import` `lib` inside your
 lang: ftd
 
 
-\-- import: jay-consejo.github.io/admint.io/lib
+\-- import: admint.io/lib
 
 -- ds.markdown:
 
