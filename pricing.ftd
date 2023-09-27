@@ -1,6 +1,6 @@
--- import: jay-consejo.github.io/admint.io/assets
--- import: jay-consejo.github.io/admint.io/lib as lib
--- import: jay-consejo.github.io/admint.io/common/fonts
+-- import: admint.io/assets
+-- import: admint.io/lib as lib
+-- import: admint.io/common/fonts
 
 
 -- integer $stage: 1

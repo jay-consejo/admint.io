@@ -1,6 +1,6 @@
--- import: jay-consejo.github.io/admint.io/assets
--- import: jay-consejo.github.io/admint.io/lib
--- import: jay-consejo.github.io/admint.io/common/fonts
+-- import: admint.io/assets
+-- import: admint.io/lib
+-- import: admint.io/common/fonts
 
 -- integer $current-active: 1
 -- boolean $show-waitlist-popup: false

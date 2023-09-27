@@ -1,10 +1,10 @@
--- import: jay-consejo.github.io/admint.io/assets
+-- import: admint.io/assets
 -- import: fastn-community.github.io/doc-site as ds
--- import: jay-consejo.github.io/admint.io/docs
--- import: jay-consejo.github.io/admint.io/lib
+-- import: admint.io/docs
+-- import: admint.io/lib
 -- import: fifthtry.github.io/admint-cs as cs
 -- import: fifthtry.github.io/admint-typography as typo
--- import: jay-consejo.github.io/admint.io/common
+-- import: admint.io/common
 
 
 
@@ -46,8 +46,8 @@ mentioned below, and you can simply utilize it.
 -- ds.code:
 lang: ftd
 
-\-- import: jay-consejo.github.io/admint.io/lib
-\-- import: jay-consejo.github.io/admint.io/common
+\-- import: admint.io/lib
+\-- import: admint.io/common
 
 -- ds.markdown:
 
