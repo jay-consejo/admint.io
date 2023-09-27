@@ -1,5 +1,5 @@
 -- import: jay-consejo.github.io/admint.io/assets
--- import: fifthtry.github.io/doc-site as ds
+-- import: fastn-community.github.io/doc-site as ds
 -- import: jay-consejo.github.io/admint.io/docs
 -- import: jay-consejo.github.io/admint.io/lib
 -- import: fifthtry.github.io/admint-cs as cs
@@ -14,7 +14,6 @@ show-footer: true
 site-logo: $assets.files.static.admint-logo.svg
 colors: $cs.main
 types: $typo.types
-$widthfill: true
 sections: $lib.sitemap.sections
 
 -- ds.page.footer:

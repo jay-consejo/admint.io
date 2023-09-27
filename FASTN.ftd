@@ -6,12 +6,12 @@ favicon: https://jay-consejo.github.io/admint.io/favicon.ico
 
 -- fastn.dependency: fifthtry.github.io/admint-cs
 -- fastn.dependency: fifthtry.github.io/admint-nunito-font
--- fastn.dependency: fifthtry.github.io/roboto-font
+-- fastn.dependency: fastn-community.github.io/roboto-font
 -- fastn.dependency: fifthtry.github.io/montserrat
 -- fastn.dependency: fifthtry.github.io/admint-typography
 -- fastn.dependency: fifthtry.github.io/lato-font
--- fastn.dependency: fifthtry.github.io/doc-site
--- fastn.dependency: fifthtry.github.io/footer
+-- fastn.dependency: fastn-community.github.io/doc-site
+-- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/opensans-font
 
 -- fastn.auto-import: jay-consejo.github.io/admint.io/assets
