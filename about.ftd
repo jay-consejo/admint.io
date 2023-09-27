@@ -78,14 +78,19 @@ display: inline
 -- lib.our-team.members-list: 
 
 -- lib.member-feature-card: **Harish Shankaran**
-designation: Founder
+designation: Chief Product Officer
 avatar: $assets.files.static.about-us.hareesh.jpeg
 link: https://www.linkedin.com/in/harishshankaran/
 
--- lib.member-feature-card: **Jaylah Consejo**
-designation: Founder
+-- lib.member-feature-card: **Jay Consejo**
+designation: Chief Executive Officer
 avatar: $assets.files.static.about-us.Jaylah-Consejo.jpeg
-link: https://www.linkedin.com/in/jaylahconsejo/
+link: https://www.linkedin.com/in/jayconsejo/
+
+-- lib.member-feature-card: **Ben Peeri**
+designation: Chief Technology Officer
+avatar: $assets.files.static.about-us.ben-peeri.jpg
+link: https://www.linkedin.com/in/benpeeri/
 
 -- end: lib.our-team.members-list
 

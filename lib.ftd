@@ -2147,7 +2147,7 @@ height.fixed.px: 48
 -- ftd.row:
 margin-top.px: 47
 align-self: end
-max-width.fixed.percent: 42.32
+max-width.fixed.percent: 65.32
 wrap: true
 
 -- footer-list: $obj.title
@@ -2157,18 +2157,17 @@ is-active: $common.check-is-active(a=$footer-desktop.active-page, b=$obj.url)
 
 -- end: ftd.row
 
--- ftd.row:
-margin-top.px: 81
+/-- ftd.row:
 align-self: end
 
--- ftd.image:
+/-- ftd.image:
 $loop$: $footer-desktop.social-links as $obj
 src: $obj.src
 padding-left.px: 10
 cursor: pointer
 link: $obj.link
 
--- end: ftd.row
+/-- end: ftd.row
 
 -- end: ftd.column
 
