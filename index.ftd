@@ -251,7 +251,7 @@ margin-horizontal.rem: 0.48
 display: inline-block
 display if { ftd.device == "mobile" }: inline
 
-You ask why? Because... Followed by the WHY NFTs?
+You ask why? Because... 
 
 -- end: ftd.container
 
