@@ -230,8 +230,8 @@ Stake your claim across the Metaverses!
 -- end: lib.carousel
 
 -- lib.help-banner:
-cta-label: Let's Learn
-cta-url: learn/
+cta-label: Know More
+cta-url: why-nft/
 image: $assets.files.static.help-banner.svg
 
 -- lib.help-banner.title:
