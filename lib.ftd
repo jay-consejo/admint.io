@@ -2137,12 +2137,16 @@ align-self: center
 padding-horizontal.px: 12
 min-width.fixed.px: $max-width
 
+-- ftd.container:
+align-self: end
+
 -- ftd.image:
 src: $footer-desktop.site-logo
-align-self: end
 link: $footer-desktop.site-url
 width.fixed.px: 195
 height.fixed.px: 48
+
+-- end: ftd.container
 
 -- ftd.row:
 margin-top.px: 47

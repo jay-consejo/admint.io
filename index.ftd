@@ -64,14 +64,14 @@ reset: $current-active
 
 -- ftd.container:
 
--- ftd.text: Make your brand &quot;
+-- ftd.text: Make your brand "
 display: inline-block
 
 -- ftd.text: Web 3.0 ready
 display: inline
 color: $inherited.colors.border
 
--- ftd.text: &quot;
+-- ftd.text: "
 display: inline
 
 -- ftd.text: via structured campaign phases:

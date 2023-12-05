@@ -2,8 +2,7 @@ function loadWindow() {
   console.log("Page Loaded Successfully...")
 }
 
-
-window.onload = (event) => {
+window.addEventListener("DOMContentLoaded", () => {
   document.getElementById("name-warning") ? document.getElementById("name-warning").style.display = 'none' : "";
   document.getElementById("org-warning") ? document.getElementById("org-warning").style.display = 'none' : "";
   document.getElementById("email-warning") ? document.getElementById("email-warning").style.display = 'none' : "";
@@ -22,7 +21,7 @@ window.onload = (event) => {
   document.getElementById("blur-enterprise-b") ? document.getElementById("blur-enterprise-b").style.filter = "blur(6px)" : ""
   document.getElementById("blur-plus-a") ? document.getElementById("blur-plus-a").style.filter = "blur(6px)" : ""
   document.getElementById("blur-plus-b") ? document.getElementById("blur-plus-b").style.filter = "blur(6px)" : ""
-};
+});
 
 
 function formValidation(event) {
