@@ -64,14 +64,14 @@ reset: $current-active
 
 -- ftd.container:
 
--- ftd.text: Make your brand &quot;
+-- ftd.text: Make your brand "
 display: inline-block
 
 -- ftd.text: Web 3.0 ready
 display: inline
 color: $inherited.colors.border
 
--- ftd.text: &quot;
+-- ftd.text: "
 display: inline
 
 -- ftd.text: via structured campaign phases:
@@ -230,8 +230,8 @@ Stake your claim across the Metaverses!
 -- end: lib.carousel
 
 -- lib.help-banner:
-cta-label: Let's Learn
-cta-url: learn/
+cta-label: Know More
+cta-url: why-nft/
 image: $assets.files.static.help-banner.svg
 
 -- lib.help-banner.title:
