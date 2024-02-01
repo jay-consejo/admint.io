@@ -3,8 +3,304 @@
 -- import: fifthtry.github.io/montserrat/assets as montserrat-assets
 -- import: fastn-community.github.io/opensans-font/assets as opensans-font-assets
 -- import: fifthtry.github.io/lato-font/assets as lato-font-assets
+-- import: fastn-community.github.io/lato-font/assets as lato-assets
+-- import: fastn-community.github.io/inter-font/assets as inter-font-assets
 
 ;; :::: Custom Fonts ::::
+
+
+-- ftd.type lato-heading1:
+line-height.px: 29
+size.px: 24
+letter-spacing.px: 0
+weight: 800
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading1:
+desktop: $lato-heading1
+mobile: $lato-heading1
+
+-- ftd.type lato-heading2:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading2:
+desktop: $lato-heading2
+mobile: $lato-heading2
+
+-- ftd.type lato-heading3:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 600
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading3:
+desktop: $lato-heading3
+mobile: $lato-heading3
+
+-- ftd.type lato-heading4:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading4:
+desktop: $lato-heading4
+mobile: $lato-heading4
+
+-- ftd.type lato-heading5:
+line-height.px: 17
+size.px: 14
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading5:
+desktop: $lato-heading5
+mobile: $lato-heading5
+
+-- ftd.type lato-heading6:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading6:
+desktop: $lato-heading6
+mobile: $lato-heading6
+
+-- ftd.type lato-heading7:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading7:
+desktop: $lato-heading7
+mobile: $lato-heading7
+
+-- ftd.type lato-heading8:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 600
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading8:
+desktop: $lato-heading8
+mobile: $lato-heading8
+
+-- ftd.type lato-heading9:
+line-height.px: 17
+size.px: 14
+letter-spacing.px: 0
+weight: 600
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading9:
+desktop: $lato-heading9
+mobile: $lato-heading9
+
+-- ftd.type lato-heading10:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading10:
+desktop: $lato-heading10
+mobile: $lato-heading10
+
+-- ftd.type lato-heading11:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading11:
+desktop: $lato-heading11
+mobile: $lato-heading11
+
+-- ftd.type lato-heading12:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 600
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading12:
+desktop: $lato-heading12
+mobile: $lato-heading12
+
+-- ftd.type lato-heading13:
+line-height.px: 22
+size.px: 18
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading13:
+desktop: $lato-heading13
+mobile: $lato-heading13
+
+-- ftd.type lato-heading14:
+line-height.px: 22
+size.px: 18
+letter-spacing.px: 0
+weight: 600
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading14:
+desktop: $lato-heading14
+mobile: $lato-heading14
+
+-- ftd.type lato-heading15:
+line-height.px: 29
+size.px: 24
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading15:
+desktop: $lato-heading15
+mobile: $lato-heading15
+
+-- ftd.type lato-heading16:
+line-height.px: 22
+size.px: 18
+letter-spacing.px: 0
+weight: 500
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading16:
+desktop: $lato-heading16
+mobile: $lato-heading16
+
+-- ftd.type lato-heading17:
+line-height.px: 34
+size.px: 28
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading17:
+desktop: $lato-heading17
+mobile: $lato-heading17
+
+-- ftd.type lato-heading18:
+line-height.px: 22
+size.px: 18
+letter-spacing.px: 0
+weight: 400
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading18:
+desktop: $lato-heading18
+mobile: $lato-heading18
+
+-- ftd.type lato-heading19:
+line-height.px: 24
+size.px: 20
+letter-spacing.px: 0
+weight: 500
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading19:
+desktop: $lato-heading19
+mobile: $lato-heading19
+
+-- ftd.type lato-heading20:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 500
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading20:
+desktop: $lato-heading20
+mobile: $lato-heading20
+
+-- ftd.type lato-heading21:
+line-height.px: 36
+size.px: 30
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading21:
+desktop: $lato-heading21
+mobile: $lato-heading21
+
+-- ftd.type lato-heading22:
+line-height.px: 19
+size.px: 16
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading22:
+desktop: $lato-heading22
+mobile: $lato-heading22
+
+
+
+-- ftd.type lato-heading23:
+line-height.px: 90
+size.px: 110
+letter-spacing.px: 0
+weight: 900
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading23:
+desktop: $lato-heading23
+mobile: $lato-heading23
+
+
+-- ftd.type lato-heading24:
+line-height.px: 42
+size.px: 36
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading24:
+desktop: $lato-heading24
+mobile: $lato-heading24
+
+
+-- ftd.type lato-heading25:
+line-height.px: 53
+size.px: 40
+letter-spacing.px: 0
+weight: 700
+font-family: $lato-assets.fonts.Lato
+
+-- ftd.responsive-type small-heading25:
+desktop: $lato-heading25
+mobile: $lato-heading25
+
+
+-- ftd.type nunito-heading1:
+line-height.px: 53
+size.px: 40
+letter-spacing.px: 0
+weight: 700
+font-family: $nunito-assets.fonts.Nunito
+
+-- ftd.responsive-type nunito-small-heading1:
+desktop: $nunito-heading1
+mobile: $nunito-heading1
+
+
 
 -- ftd.type size-29-mobile:
 line-height.px: 40
@@ -1332,6 +1628,30 @@ font-family: $nunito-assets.fonts.Inter
 
 
 
+-- ftd.type font-14-18-700-type:
+line-height.px: 18
+size.px: 14
+letter-spacing.px: 0
+weight: 700
+font-family: $inter-font-assets.fonts.Inter
+
+-- ftd.responsive-type font-14-18-700: $font-14-18-700-type
+
+
+
+
+-- ftd.type font-14-18-400-type:
+line-height.px: 18
+size.px: 14
+letter-spacing.px: 0
+weight: 500
+font-family: $inter-font-assets.fonts.Inter
+
+-- ftd.responsive-type font-14-18-400: $font-14-18-400-type
+
+
+
+
 
 -- ftd.type font-18-36-700-type:
 line-height.rem: 1.36
@@ -1415,7 +1735,7 @@ font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.color 121a17: #121a17
 
--- ftd.color grey: #777
+-- ftd.color grey: #7D8180
 
 -- ftd.color eeeeee80: #eeeeee80
 

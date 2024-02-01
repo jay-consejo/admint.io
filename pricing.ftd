@@ -48,21 +48,55 @@ index: 1
 reset: $lib.current-tab
 show if { stage == 1 }: true
 
--- lib.business-card: MONTHLY
-monthly-price: 56.90
-annually-price: 30.90
+-- lib.business-card: SINGLE CAMPAIGN 
+role: primary
+subtitle: STAND-ALONE WEBSITE
+offer: Save 40%
+monthly-price: \$500
+annually-price: \$300
+fee-detail: Add Gas Fee credits* worth $5
 $current-stage: $stage
 
--- lib.business-plus-card: ANNUALLY
-monthly-price: 189.99
-annually-price: 80.99
+includes one customizable website + web 3.0 widgets + associated campaign manager & 
+analytics bundle
+
+-- lib.business-card: SINGLE CAMPAIGN 
+role: secondary
+subtitle: ALL INCLUSIVE
+offer: Save 50%
+monthly-price: \$1000
+annually-price: \$500
+fee-detail: Add Gas Fee credits* worth $5
 $current-stage: $stage
 
--- lib.business-card: QUATERLY
-monthly-price: 126.98
-annually-price: 70.98
+includes both distribution & fulfillment websites + web 3.0 widgets + campaign 
+managers & analytics bundle
+
+-- lib.business-card: MULTI CAMPAIGN
+subtitle: ENTERPRISE SOLUTIONS
 $current-stage: $stage
-plan: 3
+button-text: Contact Us
+
+Planning multiple projects? Need something customized? Want to explore
+
+Let’s talk. We will set you up with the best possible solutions. 
+
+-- lib.card-description: GAS FEE CREDITS
+note: The campaign plan purchase does NOT include gas fees credit by default. Purchase is optional. 
+description: To minimize frequent use of credit card multiple times per campaign, it is however recommended to avail & allocate sufficient gas fee credits accordingly.
+
+Every transaction that happens over a blockchain (minting NFTs / transferring
+NFTs etc.) invoke **gas fees**.  The actual cost incurred depend on  multiple
+factors and varies from chain to chain. Basic principles of supply & demand
+impacts its value in real-time.
+
+-- lib.business-card: GAS FEES CREDITS
+subtitle: PAY AS REQUIRED
+$current-stage: $stage
+button-text: Add Gas Fees
+
+Purchase gas fees credits to enable minting / transfer of NFTs. 
+
 
 -- end: lib.tab-panel
 
@@ -71,21 +105,29 @@ index: 2
 reset: $lib.current-tab
 show if { stage == 1 }: true
 
--- lib.business-card: MONTHLY
-monthly-price: 56.90
-annually-price: 30.90
+-- lib.business-card: SINGLE CAMPAIGN 
+role: primary
+subtitle: STAND-ALONE WEBSITE
+offer: Save 40%
+monthly-price: \$500
+annually-price: \$300
+fee-detail: Add Gas Fee credits* worth $5
 $current-stage: $stage
 
--- lib.business-plus-card: ANNUALY
-monthly-price: 189.99
-annually-price: 80.99
+includes one customizable website + web 3.0 widgets + associated campaign manager & 
+analytics bundle
+
+-- lib.business-card: SINGLE CAMPAIGN 
+role: secondary
+subtitle: ALL INCLUSIVE
+offer: Save 50%
+monthly-price: \$1000
+annually-price: \$500
+fee-detail: Add Gas Fee credits* worth $5
 $current-stage: $stage
 
--- lib.business-card: QUATERLY
-monthly-price: 126.98
-annually-price: 70.98
-plan: 3
-$current-stage: $stage
+includes both distribution & fulfillment websites + web 3.0 widgets + campaign 
+managers & analytics bundle
 
 -- end: lib.tab-panel
 
