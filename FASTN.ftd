@@ -11,9 +11,11 @@ favicon: https://admint.io/favicon.ico
 -- fastn.dependency: fifthtry.github.io/montserrat
 -- fastn.dependency: fifthtry.github.io/admint-typography
 -- fastn.dependency: fifthtry.github.io/lato-font
+-- fastn.dependency: fastn-community.github.io/lato-font
 -- fastn.dependency: fastn-community.github.io/doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/opensans-font
+-- fastn.dependency: fastn-community.github.io/inter-font
 
 -- fastn.auto-import: admint.io/assets
 
